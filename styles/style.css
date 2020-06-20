@@ -1,0 +1,103 @@
+.bg-img {
+	background-image: url('../images/img.png');
+	height: 1000px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: bottom right;
+}
+.name {
+	font-size: 28px;
+	padding: 51px 0 0 70px;
+	color: white;
+}
+.navbar-li {
+	display: flex;
+	justify-content: flex-end;
+	padding-right: 100px;
+}
+.lists {
+	padding: 0 50px 0 20px;
+	color: white;
+}
+.title{
+	font-size: 100px;
+	color: white;
+	position: absolute;
+	left: 50%;
+	bottom: 60%;
+	transform: translate(-50%, -60%);
+}
+.click {
+	position: absolute;
+	left: 48%;
+	right: 42%;
+	transform: translate(-48%, -42%);
+	padding-top: 800px;
+	width: 307px;
+}
+.button {
+	width: 307px;
+	height: 72px;
+	font-size: 18px;
+	color: white;
+	background-color: #325DFF;
+	border-radius: 36px;
+}
+/*sectoion*/
+.parent {
+	display: flex;
+	justify-content: flex-start;
+}
+.first {
+	height: 600px;
+	width: 50%;
+	margin: 150px 0 0 150px;
+}
+.second {
+	background-image: url('../images/img2.PNG');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	height: 750px;
+	width: 50%;
+}
+.minititle {
+	width: 650px;
+	font-size: 70px;
+}
+.text {
+	width: 450px;
+	font-size: 20px;
+	padding-top: 50px;
+}
+.click1 {
+	padding-top: 70px;
+}
+/*section2*/
+.third {
+	background-color: #FAFAFA;
+	height: 1000px;
+	width: 1170px;
+	margin: 0 auto;
+}
+/*.lasttext {
+	font-size: 50px;
+	padding: 80px 0 0  700px;
+}
+.maintext {
+	padding: 20px 0 0 600px;
+}
+.lasttext1 {
+	width: 771px;
+	font-size: 20px;
+}
+.box {
+	display: flex;
+	justify-content: space-around;
+}
+.box1 {
+	width: 370px;
+	height: 370px;
+	background-color: red;
+}*/
